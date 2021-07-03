@@ -4,11 +4,10 @@
 <h2 align="center">👨‍🎓  Open Source Computer Science Graduate </h2>
 
 
-- 🔭 I’m currently working on ... **Private Project**
-- 🌱 I’m currently learning ... **Frontend Development, Advanced Mathematics**
+- 🌱 I’m currently learning ... **React.js, **
 - 💬 Ask me about ... **Deep Learning, Neural Networks, Computer Vision and Web Development**
-- 👨‍💻 Employment ... **Jr. Software Engineer at DillBill**
-- ⚡ Fun fact ... **Call of Duty Lover :')**
+- 👨‍💻 Employment ... **Software Engineer at DillBill**
+- ⚡ Fun fact ... **Cat lover :)**
 - 📫 How to reach me: **eldanizbabayev@protonmail.com**
 <br />
 
@@ -38,7 +37,7 @@ class About extends Me
         return [
             'workplace' => [
                 'company' => 'DillBill',
-                'position' => 'Jr. Software Engineer'         
+                'position' => 'Software Engineer'         
             ]
         ];
     }
@@ -57,13 +56,6 @@ class About extends Me
             Flask::class,
             Google Cloud Platform::class
         ];
-    }
-
-    public function getFutureGoals(): string
-    {
-        return 'Become Computer Vision Scientist';
-        return 'Do My Master Degree At Stanford University';
-        return 'Improve Bootstrap, CSS, HTML For Open Source Community';
     }
 }
 ```
@@ -91,7 +83,7 @@ class About extends Me
 
 
 [blog]: https://eldaniiz.medium.com/
-[blog-2]: https://dev.to/eldaniz
+[blog-2]: https://dev.to/eldaniz/
 [linkedin]: https://www.linkedin.com/in/eldaniiz/
 [facebook]:https://www.facebook.com/3ldensavage/
 [instagram]:https://www.instagram.com/3ldaniz/
