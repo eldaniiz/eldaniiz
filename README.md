@@ -1,14 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/eldaniiz/eldaniiz/main/eldaniz.svg" alt="Eldaniz Babayev" />
 </h1>
-<h2 align="center">👨‍🎓  Open Source Computer Science Graduate </h2>
 
-
-- 🌱 I’m currently learning ... **React.js**
-- 💬 Ask me about ... **Deep Learning, Neural Networks, Computer Vision and Web Development**
-- 👨‍💻 Employment ... **Software Engineer at DillBill**
-- ⚡ Fun fact ... **Cat lover :)**
-- 📫 How to reach me: **eldanizbabayev@protonmail.com**
+- Ask me about - **Deep Learning, Neural Networks, Computer Vision and Web Development**
+- Employment - **Computer Vision Research Intern @ UCF**
+- How to reach me: **eldanizbabayev@protonmail.com**
 <br />
 
 ## Connect with me 
