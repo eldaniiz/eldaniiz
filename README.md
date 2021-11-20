@@ -32,8 +32,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'DillBill',
-                'position' => 'Software Engineer'         
+                'company' => 'University of Central Florida',
+                'position' => 'Computer Vision Research Intern'         
             ]
         ];
     }
